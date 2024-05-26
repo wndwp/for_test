@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(void){
-    printf("hello Git\n");
+    printf("hello Hacker!\n");
 
     return 0;
 }
